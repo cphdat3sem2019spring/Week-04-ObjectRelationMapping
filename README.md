@@ -31,24 +31,22 @@ Read the following for day-1
 Relationships, cardinality, directionality and Inheritance (only red students)
 
 ### Readings
+**Important:** Make sure your have read the section "Important when you read the Wiki" earlier in this document
+
 From this [chapter](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types) in the wikibook you should read:
 
-[Relationships](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types). Make sure to follow and skim these links in this section :
-* [OneToOne](https://en.wikibooks.org/wiki/Java_Persistence/OneToOne)
-* [ManyToOne](https://en.wikibooks.org/wiki/Java_Persistence/ManyToOne)
-* [OneToMany](https://en.wikibooks.org/wiki/Java_Persistence/OneToMany)
-* [ManyToMany](https://en.wikibooks.org/wiki/Java_Persistence/ManyToMany)
-* [Java Persistence/Inheritance](https://en.wikibooks.org/wiki/Java_Persistence/Inheritance) ONLY RED STUDENTS
+[Relationships (skim only)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types). Make sure to follow and skim these links in this section :
+* [:book: OneToOne (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/OneToOne)
+* [:book: ManyToOne (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/ManyToOne)
+* [:book: OneToMany (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/OneToMany)
+* [:book: ManyToMany (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/ManyToMany)
+* RED ONLY :arrow_right: [:book: Java Persistence/Inheritance (5-10 min)](https://en.wikibooks.org/wiki/Java_Persistence/Inheritance) ONLY RED STUDENTS
 
 ### Day 3 (Thuersday) - Quering with JPQL
 JPQL-queries 
-Read in this [section](https://en.wikibooks.org/wiki/Java_Persistence/Querying) of the wikibook 
-* 1.1 (skip 1.1.2)
-* 1.2.1
-* 1.4 [parameters](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Parameters)
-* 1.5 [Query Results](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Query_Results)
-* 1.6 [Common Queries](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) Skim all sections to see what you can do. You will need this for the exercises.
-* for your reference [JPQL](https://en.wikibooks.org/wiki/Java_Persistence/JPQL) This is an extra ?? section in the wiki, which is kind of a complete referende to JPQL
+- [:book: Java Persistence/Querying 10 min. (Read until the section "Common Queries")](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) 
+- [Common Queries (Skim only)](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) Skim all sections to see what you can do. You will need this for the exercises.
+- For your reference [JPQL (Skim Only)](https://en.wikibooks.org/wiki/Java_Persistence/JPQL) This is an extra section in the wiki, which is kind of a complete referende to JPQL
 
 ### Day 4 (Friday) - Friday Exercises
 
