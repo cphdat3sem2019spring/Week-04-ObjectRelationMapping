@@ -17,7 +17,7 @@ EntityManager.
 
 
 
-## Before this lesson you should
+### Before this lesson you should
 Read the following for day-1
 * [:book: Wikipedia Article(5 min.)](https://en.wikipedia.org/wiki/Object-relational_mapping). Only read the first section, to get an overall idea about ORM. This is a concept you will find in almost all modern technologies (Java, .Net, JavaScipt, PHP etc..)
 * 3.3 [:book: What is JPA (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/What_is_JPA%3F)
@@ -27,13 +27,13 @@ Read the following for day-1
 * [:BOOK: 5.1, 5.2, 5.4, 5.6 (skim only)](https://en.wikibooks.org/wiki/Java_Persistence) SKIM these sections, so you know where to come back, when you start with the exercises
 * 6.2  [Persisting (Inserting, Updating, Merging) (10-15 min.)](https://en.wikibooks.org/wiki/Java_Persistence/Persisting) Read until the section Advanced.
 
-## Exercises
+### Exercises
 - [Day-1](https://docs.google.com/document/d/1-fWe3QOGluvS38f3iIPcZZbTxL-AfcynG6Hfpv4bc90/edit?usp=sharing)
 
 ### Slides
 [ORM Intro](https://docs.google.com/presentation/d/1IDeoEtchqX88Jo0JBSNOIhJkOWHl86BvFL9laGnW_MM/edit?usp=sharing)
 
-### Day 2 (Wednesday) - Relationships 
+## Day 2 (Wednesday) - Relationships 
 Relationships, cardinality, directionality and Inheritance (only red students)
 
 ### Readings
@@ -48,20 +48,20 @@ From this [chapter](https://en.wikibooks.org/wiki/Java_Persistence/Relationships
 * [:book: ManyToMany (5 min.)](https://en.wikibooks.org/wiki/Java_Persistence/ManyToMany)
 * RED ONLY :arrow_right: [:book: Java Persistence/Inheritance (5-10 min)](https://en.wikibooks.org/wiki/Java_Persistence/Inheritance) ONLY RED STUDENTS
 
-## Exercises
+### Exercises
 - [Day-2](https://docs.google.com/document/d/1JuoyPUqw45jKta9_pY21Go7lgR8ur-XVWBiZOxUpXPo/edit?usp=sharing)
 - [Mapping Inheritance (RED ONLY)](https://docs.google.com/document/d/1u8Tr4R_5otLGQlr1KakSI3lwB2IYdUH7ZxpQvERiGY8/edit?usp=sharing) )
 
-### Day 3 (Thuersday) - Quering with JPQL
+## Day 3 (Thuersday) - Quering with JPQL
 JPQL-queries 
 - [:book: Java Persistence/Querying 10 min. (Read until the section "Common Queries")](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) 
 - [Common Queries (Skim only)](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) Skim all sections to see what you can do. You will need this for the exercises.
 - For your reference [JPQL (Skim Only)](https://en.wikibooks.org/wiki/Java_Persistence/JPQL) This is an extra section in the wiki, which is kind of a complete referende to JPQL
 
-## Exercises
+### Exercises
 - [Day-3](https://docs.google.com/document/d/1xY_bK3BvgFoE0A93M_7RFLeB0Pze1WRanqqBdDIZxoU/edit?usp=sharing)
 
-### Day 4 (Friday) - Friday Exercises
+## Day 4 (Friday) - Friday Exercises
 
 [Friday](https://docs.google.com/document/d/10KNPpCFg0Fo7_R40RZwG7spq4g_idzjJYZNtuunilNY/edit?usp=sharing)
 
@@ -74,8 +74,6 @@ The following tutorial from netbeans, as well as a couple videos Christian made,
 - [Video JPA database table -> entityclass](https://www.twitch.tv/videos/168934609)
 - [Video JPA relationships](https://www.twitch.tv/videos/168939780)
 
-## Friday
 
-- [Friday](https://docs.google.com/document/d/10KNPpCFg0Fo7_R40RZwG7spq4g_idzjJYZNtuunilNY/edit?usp=sharing)
 
 
