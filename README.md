@@ -1,4 +1,6 @@
 # Week4 - Object Relational Mapping (ORM)with JPA (Java Persistence API)
+### Snippet file
+[Snippet](https://docs.google.com/document/d/1KxPN29meJZUjBEgHkxIH73dZQa3uhqc4O25jJ67c4XQ/edit?usp=sharing)
 
 ## Business Competences
 This week will enable you to work with databases through an Object Relational Mapping Framework. The focus is on
