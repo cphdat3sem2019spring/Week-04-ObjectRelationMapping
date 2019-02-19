@@ -28,7 +28,7 @@ Read the following for day-1
 * 6.2  [Persisting (Inserting, Updating, Merging) (10-15 min.)](https://en.wikibooks.org/wiki/Java_Persistence/Persisting) Read until the section Advanced.
 
 ### Exercises
-- [Day-1](https://docs.google.com/document/d/1-fWe3QOGluvS38f3iIPcZZbTxL-AfcynG6Hfpv4bc90/edit?usp=sharing)
+- [Day-1](https://docs.google.com/document/d/1e7Xyj_dCH6QkYIZ1zd2nE2XBffwCQ9LWxbMX7AGM-4U/edit?usp=sharing)
 
 ### Slides
 [ORM Intro](https://docs.google.com/presentation/d/1IDeoEtchqX88Jo0JBSNOIhJkOWHl86BvFL9laGnW_MM/edit?usp=sharing)
