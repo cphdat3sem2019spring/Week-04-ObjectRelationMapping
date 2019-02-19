@@ -59,7 +59,7 @@ JPQL-queries
 - For your reference [JPQL (Skim Only)](https://en.wikibooks.org/wiki/Java_Persistence/JPQL) This is an extra section in the wiki, which is kind of a complete referende to JPQL
 
 ### Exercises
-- [Day-3](https://docs.google.com/document/d/1xY_bK3BvgFoE0A93M_7RFLeB0Pze1WRanqqBdDIZxoU/edit?usp=sharing)
+- [Day-3](https://docs.google.com/document/d/1tbVNQe4rbiVf4uKQAiugeTwYRas0qLBvnrTxEhzxnf4/edit?usp=sharing)
 
 ## Day 4 (Friday) - Friday Exercises
 
