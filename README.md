@@ -63,7 +63,7 @@ JPQL-queries
 
 ## Day 4 (Friday) - Friday Exercises
 
-[Friday](https://docs.google.com/document/d/10KNPpCFg0Fo7_R40RZwG7spq4g_idzjJYZNtuunilNY/edit?usp=sharing)
+[Friday](https://docs.google.com/document/d/1kIDFD49vfMOlL0lPjG_DOc4PP8Gj0NamNl2F5BX9Xmc/edit?usp=sharingg)
 
 ### Extra Material for this week
 
