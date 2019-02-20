@@ -54,6 +54,9 @@ From this [chapter](https://en.wikibooks.org/wiki/Java_Persistence/Relationships
 - [Day-2](https://docs.google.com/document/d/1pJYALzFkZlGHKSN2PtvdJXL9UYg5oB0PEj2Sx6aZmkE/edit?usp=sharing)
 - [Mapping Inheritance (RED ONLY)](https://docs.google.com/document/d/1qhIuA5MuIR-YYVUsvTsI6LGEOQxOPEopBrAkoHhopaI/edit?usp=sharing)
 
+### Slides
+- [Realtions (remember Inheritance is DARK RED)](https://docs.google.com/presentation/d/1QPBXFXgpli4jnzKc5duCNzd0EZDZBl2uLb3f08Sqix8/edit?usp=sharing)
+
 ## Day 3 (Thuersday) - Quering with JPQL
 JPQL-queries 
 - [:book: Java Persistence/Querying 10 min. (Read until the section "Common Queries")](https://en.wikibooks.org/wiki/Java_Persistence/Querying#Common_Queries) 
